@@ -1,6 +1,5 @@
 {
-  "name": "code-rain",
-  "private": true,
+  "name": "@u9648u6653u52c7/code-rain",
   "version": "1.0.0",
   "type": "module",
   "files": ["dist"],
